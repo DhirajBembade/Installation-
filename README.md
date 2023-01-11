@@ -7,3 +7,5 @@
 * 3) Python 
 
 * 4) Notepad++
+
+* 5) PostgreSQL 15
